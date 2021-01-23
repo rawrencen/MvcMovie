@@ -11,9 +11,9 @@ namespace MvcMovie.Controllers
     public class TestingController : Controller
     {
         // GET: /<controller>/
-        public IActionResult Index()
+        public string Index()
         {
-            return View();
+            return "Hello Brianna";
         }
     }
 }
