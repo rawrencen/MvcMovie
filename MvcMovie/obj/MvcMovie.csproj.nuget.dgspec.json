@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rawrence/git/MvcMovie/MvcMovie/MvcMovie.csproj": {}
+    "/Users/rawrence/Documents/GitHub/MvcMovie/MvcMovie/MvcMovie.csproj": {}
   },
   "projects": {
-    "/Users/rawrence/git/MvcMovie/MvcMovie/MvcMovie.csproj": {
+    "/Users/rawrence/Documents/GitHub/MvcMovie/MvcMovie/MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rawrence/git/MvcMovie/MvcMovie/MvcMovie.csproj",
+        "projectUniqueName": "/Users/rawrence/Documents/GitHub/MvcMovie/MvcMovie/MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "/Users/rawrence/git/MvcMovie/MvcMovie/MvcMovie.csproj",
+        "projectPath": "/Users/rawrence/Documents/GitHub/MvcMovie/MvcMovie/MvcMovie.csproj",
         "packagesPath": "/Users/rawrence/.nuget/packages/",
-        "outputPath": "/Users/rawrence/git/MvcMovie/MvcMovie/obj/",
+        "outputPath": "/Users/rawrence/Documents/GitHub/MvcMovie/MvcMovie/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q80cDs8gAZxV6/yvrBkNwVx8NK4gBEbuQ6+rwENF/mEo6wSXj05vaxuT3xotclBxFIWocrZmCR233Lx86qu3iw==",
+  "dgSpecHash": "BBZi3ayj3oDUp02VnqCVCsTWK/c594whFtZZghfRuidW90vTKrL92JXhEt2vSy8Kr/aFtF4LKPzme896PwEKiA==",
   "success": true,
-  "projectFilePath": "/Users/rawrence/git/MvcMovie/MvcMovie/MvcMovie.csproj",
+  "projectFilePath": "/Users/rawrence/Documents/GitHub/MvcMovie/MvcMovie/MvcMovie.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
